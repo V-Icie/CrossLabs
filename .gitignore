@@ -1,0 +1,16 @@
+﻿**/build/
+**/.dart_tool/
+**/.idea/
+**/.gradle/
+**/.cxx/
+**/.vscode/
+**/ephemeral/
+**/local.properties
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/*.iml
+**/*.apk
+**/*.aab
+**/*.jks
+**/*.keystore
+**/key.properties
